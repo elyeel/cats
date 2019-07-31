@@ -11,6 +11,7 @@ describe('#breedDetails', () => {
     // We expect it to be a function, but will it be?
     // console.log(breedDetails);
   });
+  
   it('returns breed details for the Balinese breed', () => {
     // syncBreedsTest.js (inside the `it`):
     const expectedDesc = "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner.";
